@@ -1,6 +1,6 @@
 # hiding files and folders
 password/
-.ignore
+.ignore.txt
 
 # Logs
 logs
